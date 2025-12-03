@@ -1,5 +1,8 @@
-#CROPS ANALYSIS DASHBOARD ON POWER BI#
-##POWER BI ON AGRICULTURE##
+
+# CROPS ANALYSIS DASHBOARD ON POWER BI
+
+## POWER BI ON AGRICULTURE
+
 In today’s world, most economic activities are data-driven, including
 Agriculture. Agriculture is no longer just about intuition and experience. Farmers and agribusinesses are increasingly relying on data analytics to optimize crop yields, reduce costs, and improve sustainability. Microsoft Power BI—a business intelligence platform that turns raw data into interactive, insightful dashboards.
 
